@@ -31,10 +31,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+React JS is a JS Library that is used for building user interfaces. React allows an easier way to manage complex UIs and make code easier to work with and debug.
+
 
 1. Describe component state.
+State is similar to props, but it is private and fully controlled by the component.
+
 
 1. Describe props.
+Props is short for properties and are arguments that are passed into React Components.
+
 
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
 
