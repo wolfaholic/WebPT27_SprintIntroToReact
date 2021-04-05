@@ -23,7 +23,7 @@ export default function StarWars () {
         <div className="character">
             {people.map(star => {
                 return (
-                    <CharacterCard  key={star.name}  name={star.name} height={star.height} mass={star.mass} eye_color={star.eye_color}/>
+                    <CharacterCard  key={star.name}  name={star.name} height={star.height} mass={star.mass} eye_color={star.eye_color} homeworld={star.homeworld} />
                 );    
             })}
         </div>

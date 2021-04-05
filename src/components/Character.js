@@ -55,6 +55,9 @@ const CharacterCard = star => {
                 <CardText>
                     Eye Color: {star.eye_color}
                 </CardText>
+                <CardText>
+                    Homeworld: {star.homeworld}
+                </CardText>
             </CardBody>
         </Wrapper>
     )
