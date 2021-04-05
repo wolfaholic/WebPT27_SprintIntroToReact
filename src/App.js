@@ -11,7 +11,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="Header">Characters test</h1>
+      <h1 className="Header">Characters test codegrade</h1>
     </div>
   );
 }
